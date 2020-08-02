@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc23570-b4b1-4ca0-be97-c174a7bd2e9d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/dashboard/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="C:\ProgramData\ComposerSetup\bin\composer.phar" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3360">
+              <caret line="140" column="32" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/form.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7056">
+              <caret line="294" column="64" selection-start-line="294" selection-start-column="64" selection-end-line="294" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/fromedit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5520">
+              <caret line="230" column="52" selection-start-line="230" selection-start-column="52" selection-end-line="230" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/application.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6672">
+              <caret line="278" column="107" selection-start-line="278" selection-start-column="107" selection-end-line="278" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/application_add.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/details.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="201" selection-start-line="201" selection-end-line="201" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/issm.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5976">
+              <caret line="249" column="32" selection-start-line="249" selection-start-column="32" selection-end-line="281" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/app/Http/Controllers/AdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17496">
+              <caret line="738" column="57" selection-start-line="738" selection-start-column="57" selection-end-line="738" selection-end-column="57" />
+              <folding>
+                <element signature="e#40#56#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo-light-text.png</find>
+      <find>login100-form validate-form flex-sb flex-w</find>
+      <find>login100-f</find>
+      <find>wrap</find>
+      <find>wrap-login1</find>
+      <find>200</find>
+      <find>log</find>
+      <find>74</find>
+      <find>deta</find>
+      <find>admin.add</find>
+      <find>admin.addpr</find>
+      <find>application_add'</find>
+      <find>form</find>
+      <find>create</find>
+      <find>crea</find>
+      <find>addproject</find>
+      <find>admin.application</find>
+      <find>admin.netw</find>
+      <find>admin.details</find>
+      <find>csm_form_post</find>
+      <find>csm_in</find>
+      <find>admin.form</find>
+      <find>infra_form_post</find>
+      <find>infra_in</find>
+      <find>issm_form_post</find>
+      <find>issm_index</find>
+      <find>software_index</find>
+      <find>edit</find>
+      <find>fedit</find>
+      <find>dtails</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UCB-DASHBOARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dashboard/config/app.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/index.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/application_add.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/public/login/css/main.css" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/login.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/add.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/form.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/network.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/csmform.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/csm.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/infra.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/infraform.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/issmform.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/softwareform.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/issm.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/software.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/fromedit.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/application.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/routes/web.php" />
+        <option value="$PROJECT_DIR$/dashboard/resources/views/Admin/details.blade.php" />
+        <option value="$PROJECT_DIR$/dashboard/app/Http/Controllers/AdminController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/dashboard/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/balping/json-raw-encoder" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/composer" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/consoletvs/charts" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/dashboard/vendor/justinrainbow/json-schema" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="7" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectStartupLocalConfiguration">
+    <configurations>
+      <configuration id="PHP Script.Artisan Serve" name="Artisan Serve" />
+    </configurations>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monitoring Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monitoring Project" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dashboard/artisan" />
+    <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.Artisan Serve">
+    <configuration name="fromedit.blade.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Monitoring Project/dashboard/resources/views/Admin/fromedit.blade.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Artisan Serve" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/dashboard/artisan" scriptParameters="serve">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.fromedit.blade.php" />
+      <item itemvalue="PHP Script.Artisan Serve" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.fromedit.blade.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc23570-b4b1-4ca0-be97-c174a7bd2e9d" name="Default Changelist" comment="" />
+      <created>1572716988554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572716988554</updated>
+      <workItem from="1572716995012" duration="79000" />
+      <workItem from="1572717135819" duration="1997000" />
+      <workItem from="1572846619708" duration="1950000" />
+      <workItem from="1572849328556" duration="31208000" />
+      <workItem from="1572979265689" duration="8189000" />
+      <workItem from="1573536177612" duration="11814000" />
+      <workItem from="1573621720665" duration="12794000" />
+      <workItem from="1573918461538" duration="1008000" />
+      <workItem from="1573919649147" duration="3296000" />
+      <workItem from="1573972228262" duration="1313000" />
+      <workItem from="1574279257422" duration="1808000" />
+      <workItem from="1575752454395" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76095000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" type="SLIDING" visible="true" weight="0.3297491" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943144" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943144" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32943144" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32820514" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dashboard/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4296">
+          <caret line="179" column="8" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" column="68" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/public/login/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="189" column="11" selection-start-line="189" selection-start-column="11" selection-end-line="189" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/public/login/css/util.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4608">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/csmform.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6696">
+          <caret line="357" column="40" selection-start-line="357" selection-start-column="40" selection-end-line="357" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/network.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="259" column="32" lean-forward="true" selection-start-line="259" selection-start-column="32" selection-end-line="291" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/infra.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="274" selection-start-line="274" selection-end-line="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/infraform.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="1110" column="7" selection-start-line="1110" selection-start-column="7" selection-end-line="1110" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/issmform.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="370" column="7" selection-end-line="370" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/csm.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="247" column="32" selection-start-line="247" selection-start-column="32" selection-end-line="279" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/softwareform.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="370" column="7" selection-start-line="370" selection-start-column="7" selection-end-line="370" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/software.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="280" column="40" selection-start-line="280" selection-start-column="40" selection-end-line="280" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/error-404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1503" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="140" column="32" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7056">
+          <caret line="294" column="64" selection-start-line="294" selection-start-column="64" selection-end-line="294" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/fromedit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5520">
+          <caret line="230" column="52" selection-start-line="230" selection-start-column="52" selection-end-line="230" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/application.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6672">
+          <caret line="278" column="107" selection-start-line="278" selection-start-column="107" selection-end-line="278" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/application_add.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/issm.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5976">
+          <caret line="249" column="32" selection-start-line="249" selection-start-column="32" selection-end-line="281" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17496">
+          <caret line="738" column="57" selection-start-line="738" selection-start-column="57" selection-end-line="738" selection-end-column="57" />
+          <folding>
+            <element signature="e#40#56#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/resources/views/Admin/details.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
